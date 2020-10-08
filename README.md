@@ -1,3 +1,3 @@
-# Awesome-Text-Animation-using-HTML-and-CSS
+### Awesome text animation
  
-##### https://oleg-kolosov.github.io/Awesome-Text-Animation-using-HTML-and-CSS/
+[watch](https://oleg-kolosov.github.io/Awesome-Text-Animation-using-HTML-and-CSS/)
